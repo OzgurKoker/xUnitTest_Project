@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZarenTest.API", "ZarenTest.API\ZarenTest.API.csproj", "{55321455-F9C1-40E9-8523-0ACEBAD05B95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZarenTest.API", "ZarenTest.API\ZarenTest.API.csproj", "{55321455-F9C1-40E9-8523-0ACEBAD05B95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZarenTest.TEST", "ZarenTest.TEST\ZarenTest.TEST.csproj", "{89C4F8D4-1B63-48A0-91BA-A3E4A02CEEA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{55321455-F9C1-40E9-8523-0ACEBAD05B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55321455-F9C1-40E9-8523-0ACEBAD05B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55321455-F9C1-40E9-8523-0ACEBAD05B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89C4F8D4-1B63-48A0-91BA-A3E4A02CEEA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C4F8D4-1B63-48A0-91BA-A3E4A02CEEA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C4F8D4-1B63-48A0-91BA-A3E4A02CEEA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C4F8D4-1B63-48A0-91BA-A3E4A02CEEA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
